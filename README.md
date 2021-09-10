@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Karan Chavare an Software Engineer.
+- 👀 I’m interested in coding and learning new technologies.
+- 🌱 I’m currently learning data analysis techniques & machine learning concepts.
+- 💞️ I’m looking to collaborate on projects in data science and machine learning.
+- 📫 You can reach me via kchavare.1289@gmail.com
