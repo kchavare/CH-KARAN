@@ -1,4 +1,4 @@
-### Hello world !!! *I'm Karan* - aka [Holistic Developer] 👋
+### Hello world !!! *I'm Karan* - aka [Holistic Developer][youtube] 👋
 
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -6,7 +6,7 @@
 
 ## I'm an SoftWare Engineer !!
 
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here [CH-KARAN]
 - 🔭 I’m currently working on robotic process automation projects.
 - 🌱 I’m currently learning data analaysis technique & machine learning concepts.
 - 👯 I’m looking to collaborate on open source projects
