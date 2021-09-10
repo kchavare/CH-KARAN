@@ -1,7 +1,7 @@
 # Hi there, I'm Karan [#Techsavvy] 👋💻
 
 ### Glad to see you here!
-#### *I'm a software engineer & Automation Analyst who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.*
+#### I'm a software engineer & Automation Analyst who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
 
