@@ -1,7 +1,27 @@
 # Hi there, I'm Karan [#Techsavvy] 👋💻
 
+<p align="center">
+<a href="https://github.com/CH-KARAN/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/CH-KARAN/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/CH-KARAN/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/CH-KARAN/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/CH-KARAN/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/CH-KARAN/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/CH-KARAN/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/CH-KARAN/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/CH-KARAN/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/CH-KARAN/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+</p>
+
+
 ### Glad to see you here!
 #### I'm a software engineer & Automation Analyst who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.
+
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
 
