@@ -1,12 +1,11 @@
-### Hello world !!! *I'm Karan* - aka [Holistic Developer][youtube] 👋
+### Hello world! I'm Karan - aka [Holistic Developer] 👋
 
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
 
 
 ## I'm an SoftWare Engineer !!
 
-- ✍ You can find my projects here [CH-KARAN]
 - 🔭 I’m currently working on robotic process automation projects.
 - 🌱 I’m currently learning data analaysis technique & machine learning concepts.
 - 👯 I’m looking to collaborate on open source projects
@@ -41,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true" />
 
 </details>
 
