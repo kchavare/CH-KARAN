@@ -40,14 +40,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=@CH-KARAN&show_icons=true&hide_border=true" />
+  <img align="left" alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CH-KARAN&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@CH-KARAN" />
+<img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
 
 </details>
 
