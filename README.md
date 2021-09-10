@@ -4,7 +4,7 @@
 ### I'm an Software Engineer & Automation Analyst!
 #### I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL etc.
 
-<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="450" height="290" />
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="290" />
 
 - 🔭 I’m currently working on RPA projects.
 - 🌱 I’m currently learning data analysis technique & machine learning concepts.
