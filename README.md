@@ -5,7 +5,7 @@
 
 
 ### I'm an Software Engineer & Automation Analyst !
-#### I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
+#### I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL etc.
 
 - 🔭 I’m currently working on RPA projects.
 - 🌱 I’m currently learning data analysis technique & machine learning concepts.
