@@ -37,6 +37,7 @@
 <br />
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -47,9 +48,10 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
+  <img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
 
 </details>
+
 
 [linkedin]: https://www.linkedin.com/in/karanchavare
 [Stack Overflow]: https://stackoverflow.com/
