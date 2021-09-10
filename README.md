@@ -1,4 +1,4 @@
-# Hi there, I'm Karan #Techsavvy 👋💻
+# Hi there, I'm Karan [#Techsavvy] 👋💻
 
 ### Glad to see you here!
 #### *I'm a software engineer & Automation Analyst who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.*
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, anytime. I am happy to help. 😄
 - 😄 Pronouns: He/Him 😌.
-- ⚡ Fun fact: Stackoverflow is my best friend.
+- ⚡ Fun fact: [Stack Overflow] is my best friend.
 
 ### Connect with me:
 [<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -52,5 +52,5 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/karanchavare
-
-
+[Stack Overflow]: https://stackoverflow.com/
+[#Techsavvy]: https://twitter.com/hashtag/techsavvy?src=hashtag_click
