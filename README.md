@@ -6,10 +6,10 @@
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="290" />
 
-- 🔭 I’m currently working on RPA projects.
+- 🔭 I’m currently working on something amazing.
 - 🌱 I’m currently learning data analysis technique & machine learning concepts.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything, anytime 😄
+- 💬 Ask me about anything, anytime. I am happy to help. 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: Stackoverflow is my best friend.
 
