@@ -8,7 +8,7 @@
 ### Talking about personal stuffs:
 
 - 🔭 I’m currently working on something amazing.
-- 🌱 I’m currently learning data analysis technique & machine learning concepts.
+- 🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, anytime. I am happy to help. 😄
 - 😄 Pronouns: He/Him 😌.
@@ -54,3 +54,4 @@
 [linkedin]: https://www.linkedin.com/in/karanchavare
 [Stack Overflow]: https://stackoverflow.com/
 [#Techsavvy]: https://twitter.com/hashtag/techsavvy?src=hashtag_click
+[#INSAID]: https://www.linkedin.com/feed/hashtag/insaid/
