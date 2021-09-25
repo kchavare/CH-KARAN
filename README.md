@@ -1,4 +1,4 @@
-# Hi there, I'm Karan [#Techsavvy] 👋💻
+# Hi there, I'm Karan 👋💻
 
 ### Glad to see you here!
 #### I'm a Software Engineer & Automation Analyst who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.
