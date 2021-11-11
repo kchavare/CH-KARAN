@@ -1,7 +1,7 @@
 # Hi there, I'm Karan 👋💻
 
 ### Glad to see you here!
-#### I'm a Software Engineer & Automation Analyst who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.
+#### Diligent software engineer with more than 3 years experience in the IT domain, experience in analysis, design, deployment, prototype coding, and testing.Some technologies I enjoy working with include Python, VBA, SQL, UiPath etc.
 
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
