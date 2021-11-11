@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on something amazing.
 - 🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]
-- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything, anytime. I am happy to help. 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: [Stack Overflow] is my best friend.
