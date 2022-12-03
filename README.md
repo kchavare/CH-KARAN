@@ -4,7 +4,7 @@
 #### Diligent software engineer with more than 4 years experience in the IT domain, experience in analysis, design, deployment, prototype coding, and testing.Some technologies I enjoy working with include Python, VBA, SQL, UiPath, ML, DataScience etc.
 
 
-<img align="top" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
 
 ### Talking about personal stuffs:
 
