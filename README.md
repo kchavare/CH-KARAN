@@ -5,7 +5,7 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
-
+<br/>
 ### Talking about personal stuffs:
 
 - 🔭 I’m currently working on something amazing.
@@ -13,7 +13,6 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 - 💬 Ask me about anything, anytime. I am happy to help. 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: [Stack Overflow] is my best friend.
-
 
 ### Connect with me:
 [<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
