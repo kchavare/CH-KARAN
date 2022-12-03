@@ -3,7 +3,6 @@
 ### Glad to see you here!
 Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more than 4 years experience in the IT domain, experience in analysis, design, deployment, prototype coding, and testing. Some technologies I enjoy working with include Python, VBA, SQL, UiPath, ML, DataScience etc.
 
-
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
 
 <br />
