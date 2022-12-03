@@ -5,6 +5,7 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="420" height="290" />
 <br />
+
 ### Talking about personal stuffs:
 
 - 🔭 I’m currently working on something amazing.
