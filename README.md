@@ -14,6 +14,7 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: [Stack Overflow] is my best friend.
 
+
 ### Connect with me:
 [<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
