@@ -1,6 +1,6 @@
 # Hi, It's Karan 👋💻
 
-<img align="right" alt="My Info" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700" height="500" />
+<img align="right" alt="My Info" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="500" />
 
 ### Glad to see you here!
 Diligent <b>Software Engineer/ RPA Developer/ Automation Analyst</b> with more than 4 years experience in the IT domain, experience in analysis, design, deployment, prototype coding, and testing. Some technologies I enjoy working with include Python, VBA, SQL, UiPath, ML, DataScience etc.
