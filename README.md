@@ -45,10 +45,10 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 <br />
 <br />
 
-<details>
-  <summary>Most Used Languages</summary>
-  <img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
-</details>
+'<details>
+  '<summary>Most Used Languages</summary>
+  '<img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
+'</details>
 
 
 [linkedin]: https://www.linkedin.com/in/karanchavare
