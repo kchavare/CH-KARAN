@@ -30,7 +30,7 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CH-KARAN&show_icons=true&hide_border=true" />
 
@@ -46,7 +46,7 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 <br />
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>Most Used Languages</summary>
   <img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
 </details>
 
