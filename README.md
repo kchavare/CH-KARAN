@@ -10,7 +10,6 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 - 🔭 I’m currently working on something amazing.
 - 🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]
 - 💬 Ask me about anything, anytime. I am happy to help. 😄
-- 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: [Stack Overflow] is my best friend.
 
 ### Connect with me:
