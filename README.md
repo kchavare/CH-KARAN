@@ -13,7 +13,7 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 - ⚡ Fun fact: [Stack Overflow] is my best friend.
 
 ### Connect with me:
-[<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://yt3.ggpht.com/-CepHHHB3l1Y/AAAAAAAAAAI/AAAAAAAAAAA/Z8MftqWbEqA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg)" />][linkedin]
+[<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="https://yt3.ggpht.com/-CepHHHB3l1Y/AAAAAAAAAAI/AAAAAAAAAAA/Z8MftqWbEqA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" />][linkedin]
 
 <br />
 
