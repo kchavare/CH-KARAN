@@ -1,4 +1,4 @@
-# Hi there, I'm Karan 👋💻
+# Hi, It's Karan 👋💻
 
 ### Glad to see you here!
 Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more than 4 years experience in the IT domain, experience in analysis, design, deployment, prototype coding, and testing. Some technologies I enjoy working with include Python, VBA, SQL, UiPath, ML, DataScience etc.
