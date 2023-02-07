@@ -7,10 +7,10 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 
 ### Talking about personal stuffs:
 
-- 🔭 I’m currently working on something amazing.
-- 🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]
-- 💬 Ask me about anything, anytime. I am happy to help. 😄
-- ⚡ Fun fact: [Stack Overflow] is my best friend.
+🔭 I’m currently working on something amazing.
+🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]
+💬 Ask me about anything, anytime. I am happy to help. 😄
+⚡ Fun fact: [Stack Overflow] is my best friend.
 
 ### Connect with me:
 [<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="https://yt3.ggpht.com/-CepHHHB3l1Y/AAAAAAAAAAI/AAAAAAAAAAA/Z8MftqWbEqA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" />][linkedin]
@@ -28,30 +28,12 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 <br />
 <br />
 
-
 <details>
   <summary>GitHub Stats</summary>
-
   <img align="left" alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CH-KARAN&show_icons=true&hide_border=true" />
 
 </details>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-'<details>
-  '<summary>Most Used Languages</summary>
-  '<img align="left" alt="Karan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CH-KARAN" />
-'</details>
-
-
 [linkedin]: https://www.linkedin.com/in/karanchavare
 [Stack Overflow]: https://stackoverflow.com/
-[#Techsavvy]: https://twitter.com/hashtag/techsavvy?src=hashtag_click
 [#INSAID]: https://www.linkedin.com/feed/hashtag/insaid/
