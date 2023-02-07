@@ -20,10 +20,9 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 ### Languages and Tools:
 
 <img align="left" alt="VBA" width="26px" src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png" />
-<img align="left" alt="Excel" width="50px" src="https://www.hartfordpl.michlibrary.org/site-assets/images/microsoft-excel.png/@@images/image.png" />
+<img align="left" alt="Excel" width="50px" src="https://images.techhive.com/images/article/2017/05/cw_cheat_sheet_microsoft_excel_2016_a-100720988-large.jpg" />
 <img align="left" alt="UiPath" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-uipath/contentbuilder/Ui%201080%20x%201080_N4wzQly.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
