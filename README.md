@@ -7,10 +7,10 @@ Diligent <b>[Software Engineer/ RPA Developer/ Automation Analyst]</b> with more
 
 ### Talking about personal stuffs:
 
-🔭 I’m currently working on something amazing.
-🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]
-💬 Ask me about anything, anytime. I am happy to help. 😄
-⚡ Fun fact: [Stack Overflow] is my best friend.
+🔭 I’m currently working on something amazing.<br/>
+🌱 I’m currently learning data analysis technique & machine learning concepts at [#INSAID]<br/>
+💬 Ask me about anything, anytime. I am happy to help. 😄<br/>
+⚡ Fun fact: [Stack Overflow] is my best friend.<br/>
 
 ### Connect with me:
 [<img align="left" alt="Karan Chavare | LinkedIn" width="22px" src="https://yt3.ggpht.com/-CepHHHB3l1Y/AAAAAAAAAAI/AAAAAAAAAAA/Z8MftqWbEqA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" />][linkedin]
